@@ -28,7 +28,6 @@ The project focuses on detecting **authentic vs. fake reviews** using a **Transf
 1. Clone the repo  
    ```bash
    git clone https://github.com/SwatiShukla019/Fake-Review-Detection-using-BERT-on-Amazon-Dataset.git
-   cd Fake-Review-Detection-BERT
 
 ---
 
